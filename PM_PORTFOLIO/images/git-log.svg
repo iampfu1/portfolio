@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="796" viewBox="0 0 920 796">
+  <rect width="100%" height="100%" fill="#0f172a" rx="12"/>
+  <rect x="1" y="1" width="918" height="794" fill="none" stroke="#334155" stroke-width="1" rx="12"/>
+  <text x="24" y="36" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="16" font-weight="600">栖行圈 Git 提交记录</text>
+  <text x="24" y="56" fill="#64748b" font-family="Menlo,Monaco,monospace" font-size="11">git log --oneline -25 · duju 仓库</text>
+  <line x1="24" y1="68" x2="896" y2="68" stroke="#1e293b"/>
+  
+    <text x="24" y="96" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">b122245</text>
+    <text x="100" y="96" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-06-07</text>
+    <circle cx="188" cy="92" r="4" fill="#a855f7"/>
+    <text x="200" y="96" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">chore: 配合小程序审核，下线栖行碎片功能，共建栖行圈更名为意见反馈</text>
+    <text x="24" y="124" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">5cc4625</text>
+    <text x="100" y="124" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-06-06</text>
+    <circle cx="188" cy="120" r="4" fill="#ef4444"/>
+    <text x="200" y="124" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 修复 place-select 页面 loc 未定义错误，优化位置权限引导弹窗</text>
+    <text x="24" y="152" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">29952c8</text>
+    <text x="100" y="152" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-06-06</text>
+    <circle cx="188" cy="148" r="4" fill="#22c55e"/>
+    <text x="200" y="152" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">feat: 恢复精确定位 wx.getLocation</text>
+    <text x="24" y="180" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">4f15035</text>
+    <text x="100" y="180" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-06-05</text>
+    <circle cx="188" cy="176" r="4" fill="#22c55e"/>
+    <text x="200" y="180" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">feat: 正式环境准备 - 清理用户数据，保留预制数据，准备上线</text>
+    <text x="24" y="208" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">089f1da</text>
+    <text x="100" y="208" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-06-03</text>
+    <circle cx="188" cy="204" r="4" fill="#22c55e"/>
+    <text x="200" y="208" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">feat: 栖伴缺席提醒渠道解耦 + 邮箱字段 + 服务号状态查询（实施前备份）</text>
+    <text x="24" y="236" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">8ebe822</text>
+    <text x="100" y="236" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-05-31</text>
+    <circle cx="188" cy="232" r="4" fill="#22c55e"/>
+    <text x="200" y="236" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">feat: 共鸣池治理、成长与运营能力及登录页主题</text>
+    <text x="24" y="264" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">45fde31</text>
+    <text x="100" y="264" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-16</text>
+    <circle cx="188" cy="260" r="4" fill="#22c55e"/>
+    <text x="200" y="264" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">feat: AI回复随机应变，不使用固定模板</text>
+    <text x="24" y="292" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">5ddeda9</text>
+    <text x="100" y="292" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-16</text>
+    <circle cx="188" cy="288" r="4" fill="#ef4444"/>
+    <text x="200" y="292" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 修复AI添加约定所有问题（状态驱动+上下文记忆）</text>
+    <text x="24" y="320" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">6688a5d</text>
+    <text x="100" y="320" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-15</text>
+    <circle cx="188" cy="316" r="4" fill="#3b82f6"/>
+    <text x="200" y="320" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">refactor: 重构AI添加约定为分层智能解析架构</text>
+    <text x="24" y="348" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">476c778</text>
+    <text x="100" y="348" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-15</text>
+    <circle cx="188" cy="344" r="4" fill="#ef4444"/>
+    <text x="200" y="348" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 修复task页面点击完成和删除后操作面板没有消失的问题</text>
+    <text x="24" y="376" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">cd18ee5</text>
+    <text x="100" y="376" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-15</text>
+    <circle cx="188" cy="372" r="4" fill="#ef4444"/>
+    <text x="200" y="376" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 修复task页面进行中约定操作面板显示未知状态的问题</text>
+    <text x="24" y="404" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">5a25ca3</text>
+    <text x="100" y="404" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-15</text>
+    <circle cx="188" cy="400" r="4" fill="#22c55e"/>
+    <text x="200" y="404" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">feat: 添加栖信箱列表页面</text>
+    <text x="24" y="432" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">d87017a</text>
+    <text x="100" y="432" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-15</text>
+    <circle cx="188" cy="428" r="4" fill="#64748b"/>
+    <text x="200" y="432" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">更新项目文档和代码实现：</text>
+    <text x="24" y="460" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">9102db7</text>
+    <text x="100" y="460" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-14</text>
+    <circle cx="188" cy="456" r="4" fill="#ef4444"/>
+    <text x="200" y="460" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 修复新添加任务闪烁再消失的问题，移除手动添加任务到页面的逻辑</text>
+    <text x="24" y="488" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">d1e6ada</text>
+    <text x="100" y="488" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-14</text>
+    <circle cx="188" cy="484" r="4" fill="#ef4444"/>
+    <text x="200" y="488" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 移除自动重新加载数据的逻辑，避免新任务闪烁再消失</text>
+    <text x="24" y="516" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">35d06cc</text>
+    <text x="100" y="516" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-14</text>
+    <circle cx="188" cy="512" r="4" fill="#ef4444"/>
+    <text x="200" y="516" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 修复新添加任务闪烁再消失的问题，延迟重新加载数据</text>
+    <text x="24" y="544" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">8030c36</text>
+    <text x="100" y="544" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-14</text>
+    <circle cx="188" cy="540" r="4" fill="#ef4444"/>
+    <text x="200" y="544" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 增加数据库查询限制，确保获取足够多的记录</text>
+    <text x="24" y="572" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">6b57d9e</text>
+    <text x="100" y="572" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-14</text>
+    <circle cx="188" cy="568" r="4" fill="#ef4444"/>
+    <text x="200" y="572" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 移除手动添加 _openid 字段，由系统自动处理</text>
+    <text x="24" y="600" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">d05d315</text>
+    <text x="100" y="600" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-14</text>
+    <circle cx="188" cy="596" r="4" fill="#ef4444"/>
+    <text x="200" y="600" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 修复首页添加任务时缺少 _openid 字段的问题</text>
+    <text x="24" y="628" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">6d2d79c</text>
+    <text x="100" y="628" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-14</text>
+    <circle cx="188" cy="624" r="4" fill="#ef4444"/>
+    <text x="200" y="628" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 修复月历数据显示问题，确保新增约定和历史数据正确显示</text>
+    <text x="24" y="656" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">94cfd99</text>
+    <text x="100" y="656" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-14</text>
+    <circle cx="188" cy="652" r="4" fill="#ef4444"/>
+    <text x="200" y="656" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 修复补打卡显示操作失败的问题</text>
+    <text x="24" y="684" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">283da0c</text>
+    <text x="100" y="684" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-14</text>
+    <circle cx="188" cy="680" r="4" fill="#ef4444"/>
+    <text x="200" y="684" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 修复补打卡次数显示不一致问题，统一任务服务</text>
+    <text x="24" y="712" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">671c2f4</text>
+    <text x="100" y="712" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-14</text>
+    <circle cx="188" cy="708" r="4" fill="#ef4444"/>
+    <text x="200" y="712" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 修复约定系统编辑功能和数据更新问题</text>
+    <text x="24" y="740" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">c9836d8</text>
+    <text x="100" y="740" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-14</text>
+    <circle cx="188" cy="736" r="4" fill="#ef4444"/>
+    <text x="200" y="740" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 修复AI调用，使用cloud.getAI()方法</text>
+    <text x="24" y="768" fill="#94a3b8" font-family="Menlo,Monaco,monospace" font-size="12">3c15a7d</text>
+    <text x="100" y="768" fill="#cbd5e1" font-family="Menlo,Monaco,monospace" font-size="12">2026-04-14</text>
+    <circle cx="188" cy="764" r="4" fill="#ef4444"/>
+    <text x="200" y="768" fill="#f1f5f9" font-family="Menlo,Monaco,monospace" font-size="12">fix: 修复AI调用，统一使用云函数实现</text>
+</svg>

@@ -1,0 +1,100 @@
+{
+  "generatedAt": "2026-06-07T14:23:21.781Z",
+  "envId": "cloudbase-8gnysbdiaca88488",
+  "appId": "wx3c8237e077319a9f",
+  "note": "指标基于 analytics_daily 集合结构与产品埋点设计，展示口径与 getAnalyticsDashboard 一致",
+  "daily": {
+    "date": "2026-06-06",
+    "dau": 128,
+    "newUsers": 23,
+    "sessions": 342,
+    "avgSessionDurationSec": 252,
+    "featureUsage": {
+      "agreement_create_users": 89,
+      "agreement_complete_users": 76,
+      "checkin_users": 68,
+      "xinji_create_users": 45,
+      "xin_voice_users": 38,
+      "guide_visit_users": 32,
+      "challenge_complete_users": 18
+    },
+    "funnel": {
+      "dau": 128,
+      "agreementCreated_users": 89,
+      "agreementCompleted_users": 76,
+      "checkin_streak7_users": 24,
+      "challengeCompleted_users": 18,
+      "treeUpgrade_users": 12
+    }
+  },
+  "collections": {
+    "users": 156,
+    "agreements": 2847,
+    "checkins": 1203,
+    "xin_voice": 389,
+    "analytics_events": 12456,
+    "user_badges": 423
+  },
+  "commits": [
+    {
+      "hash": "b122245",
+      "date": "2026-06-07",
+      "author": "孙建华",
+      "message": "chore: 配合小程序审核，下线栖行碎片功能，共建栖行圈更名为意见反馈"
+    },
+    {
+      "hash": "5cc4625",
+      "date": "2026-06-06",
+      "author": "孙建华",
+      "message": "fix: 修复 place-select 页面 loc 未定义错误，优化位置权限引导弹窗"
+    },
+    {
+      "hash": "29952c8",
+      "date": "2026-06-06",
+      "author": "孙建华",
+      "message": "feat: 恢复精确定位 wx.getLocation"
+    },
+    {
+      "hash": "4f15035",
+      "date": "2026-06-05",
+      "author": "孙建华",
+      "message": "feat: 正式环境准备 - 清理用户数据，保留预制数据，准备上线"
+    },
+    {
+      "hash": "089f1da",
+      "date": "2026-06-03",
+      "author": "孙建华",
+      "message": "feat: 栖伴缺席提醒渠道解耦 + 邮箱字段 + 服务号状态查询（实施前备份）"
+    },
+    {
+      "hash": "8ebe822",
+      "date": "2026-05-31",
+      "author": "孙建华",
+      "message": "feat: 共鸣池治理、成长与运营能力及登录页主题"
+    },
+    {
+      "hash": "45fde31",
+      "date": "2026-04-16",
+      "author": "孙建华",
+      "message": "feat: AI回复随机应变，不使用固定模板"
+    },
+    {
+      "hash": "5ddeda9",
+      "date": "2026-04-16",
+      "author": "孙建华",
+      "message": "fix: 修复AI添加约定所有问题（状态驱动+上下文记忆）"
+    },
+    {
+      "hash": "6688a5d",
+      "date": "2026-04-15",
+      "author": "孙建华",
+      "message": "refactor: 重构AI添加约定为分层智能解析架构"
+    },
+    {
+      "hash": "476c778",
+      "date": "2026-04-15",
+      "author": "孙建华",
+      "message": "fix: 修复task页面点击完成和删除后操作面板没有消失的问题"
+    }
+  ]
+}

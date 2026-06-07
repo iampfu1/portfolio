@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="480" viewBox="0 0 920 480">
+  <rect width="100%" height="100%" fill="#FDF8F0" rx="12"/>
+  <text x="40" y="40" fill="#0f172a" font-size="18" font-weight="700">栖行圈功能架构</text>
+  <text x="40" y="58" fill="#64748b" font-size="12">四大 Tab + 子模块 + 云开发后端</text>
+  <line x1="40" y1="68" x2="880" y2="68" stroke="#E8A87C" stroke-width="2" opacity="0.3"/>
+  
+  <rect x="60" y="80" width="160" height="72" fill="#fff" stroke="#E8A87C" stroke-width="2" rx="10"/>
+  <text x="72" y="104" fill="#E8A87C" font-size="14" font-weight="700">栖行</text>
+  <text x="72" y="124" fill="#64748b" font-size="10">栖约·栖日·任务中枢</text>
+  <rect x="260" y="80" width="160" height="72" fill="#fff" stroke="#F4A261" stroke-width="2" rx="10"/>
+  <text x="272" y="104" fill="#F4A261" font-size="14" font-weight="700">共鸣</text>
+  <text x="272" y="124" fill="#64748b" font-size="10">共鸣池·统计卡片·晚安信</text>
+  <rect x="460" y="80" width="160" height="72" fill="#fff" stroke="#E76F51" stroke-width="2" rx="10"/>
+  <text x="472" y="104" fill="#E76F51" font-size="14" font-weight="700">栖心</text>
+  <text x="472" y="124" fill="#64748b" font-size="10">栖心瓶·纸鹤·小栖来信</text>
+  <rect x="660" y="80" width="160" height="72" fill="#fff" stroke="#2A9D8F" stroke-width="2" rx="10"/>
+  <text x="672" y="104" fill="#2A9D8F" font-size="14" font-weight="700">栖迹</text>
+  <text x="672" y="124" fill="#64748b" font-size="10">成长树·挑战·勋章</text>
+  <rect x="60" y="220" width="160" height="72" fill="#fff" stroke="#E8A87C" stroke-width="2" rx="10"/>
+  <text x="72" y="244" fill="#E8A87C" font-size="14" font-weight="700">栖约系统</text>
+  <text x="72" y="264" fill="#64748b" font-size="10">打卡·补打卡·AI添加</text>
+  <rect x="260" y="220" width="160" height="72" fill="#fff" stroke="#F4A261" stroke-width="2" rx="10"/>
+  <text x="272" y="244" fill="#F4A261" font-size="14" font-weight="700">风向标</text>
+  <text x="272" y="264" fill="#64748b" font-size="10">地点推荐·去过打卡</text>
+  <rect x="460" y="220" width="160" height="72" fill="#fff" stroke="#E76F51" stroke-width="2" rx="10"/>
+  <text x="472" y="244" fill="#E76F51" font-size="14" font-weight="700">栖伴</text>
+  <text x="472" y="264" fill="#64748b" font-size="10">伙伴绑定·缺席提醒</text>
+  <rect x="660" y="220" width="160" height="72" fill="#fff" stroke="#2A9D8F" stroke-width="2" rx="10"/>
+  <text x="672" y="244" fill="#2A9D8F" font-size="14" font-weight="700">数据分析</text>
+  <text x="672" y="264" fill="#64748b" font-size="10">埋点·日聚合·留存</text>
+  <rect x="160" y="360" width="240" height="56" fill="#fff" stroke="#07c160" stroke-width="2" rx="10"/>
+  <text x="172" y="384" fill="#07c160" font-size="14" font-weight="700">云函数层</text>
+  <text x="172" y="404" fill="#64748b" font-size="10">130+ 云函数</text>
+  <rect x="460" y="360" width="240" height="56" fill="#fff" stroke="#3b82f6" stroke-width="2" rx="10"/>
+  <text x="472" y="384" fill="#3b82f6" font-size="14" font-weight="700">云数据库</text>
+  <text x="472" y="404" fill="#64748b" font-size="10">30+ 集合</text>
+  <text x="40" y="450" fill="#94a3b8" font-size="10">技术栈：微信小程序 + 云开发(云函数/云数据库/云存储) + AI 智能解析</text>
+</svg>
